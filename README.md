@@ -1,4 +1,4 @@
-# Influencer Marketing Platform Simulation (Java OOP Project)
+# Influencer Collaboration and Sponsership Platform Simulation (Java OOP Project)
 
 This project is a command-line based simulation of a Social Media Influencer Collaboration and Sponsorship Platform, built using Java and emphasizing Object-Oriented Programming (OOP) principles. It models the interactions between different user types: Administrators, Brand Managers, Influencers, and Advertisers.
 
